@@ -3,3 +3,8 @@ for( var k in arr ){
 	console.log( arr[k] ); 
 	console.log( arr[k] * 2 );
 }
+
+var arrBB = ['A','B','C','D','E'];
+for( var k in arrBB ){
+	console.log( arrBB[k] ); 
+}
