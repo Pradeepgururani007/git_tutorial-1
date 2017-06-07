@@ -7,3 +7,5 @@ var json = require('./config.json');
 console.log( json.username )
 console.log( json.password )
 console.log( 'This is added by Developer B' )
+console.log( 'This is added by Developer A' )
+
